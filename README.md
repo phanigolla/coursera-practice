@@ -1,5 +1,9 @@
 # coursera-practice
 This repository is for the coursera module 4 - NodeJs, Express and MongoDB
+
+https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf
+
+
 Git Basic Commands
 
 git init
